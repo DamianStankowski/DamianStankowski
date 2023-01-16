@@ -22,3 +22,9 @@ Gracias por visitar mi perfil de GitHub. Estoy ansioso por conectarnos y trabaja
   <li>Git / GitHub</li>
   <li>Otros...</li>
 </ul>
+<h2>Idiomas</h2>
+<ul>
+  <li>Español</li>
+  <li>Polaco</li>
+  <li>Ingles</li>
+</ul>
